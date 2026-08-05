@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-CIT student at **NED University**, Karachi. I mostly live at the intersection of AI agents and interfaces — I like taking a rough idea, wiring up a multi-agent pipeline behind it, and pushing it live instead of leaving it as a slide deck.
+CSIT student at **NED University**, Karachi. I mostly live at the intersection of AI agents and interfaces — I like taking a rough idea, wiring up a multi-agent pipeline behind it, and pushing it live instead of leaving it as a slide deck.
 
 - 🎓 Studying Computer Information Technology at NED University
 - 🧠 **Google AI Professional Certificate** (7 courses) + Anthropic **AI Fluency: Framework & Foundations**
